@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: dimgray;
+}
+
+h1{
+     color: rgb(0, 218, 116);
+}
+
+h3{
+     color: rgb(0, 218, 116);
+}
+
+p{
+    color: rgb(253, 238, 218);
+}
+
+b{
+    color: aqua;
+}
+
+a{
+    color: rgb(255, 153, 0);
+}
